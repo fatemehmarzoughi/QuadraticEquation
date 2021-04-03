@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/eaglet/gitHub/CppProgrammingForGames/Chapter4/QuadraticEquation/build/CMakeFiles/_CMakeLTOTest-CXX/src/foo.cpp
+
